@@ -1,0 +1,2 @@
+idx,N,iters,cost_min_sum,num_routes,len_routes,objective,v_speeds,elapsed_s
+0,40,10000,63.930196,11,4;4;6;5;4;3;3;3;2;3;3,time,0.25;0.2;0.166667,84.376233
